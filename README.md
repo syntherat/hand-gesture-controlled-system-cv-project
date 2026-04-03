@@ -43,6 +43,7 @@ Core pipeline:
 - NumPy
 
 ## Project Structure
+```text
 project/
 |-- src/
 |   |-- main.py
@@ -52,6 +53,7 @@ project/
 |   |-- smoothing.py
 |-- requirements.txt
 |-- README.md
+```
 
 ## Installation
 ### 1) Clone or copy the project folder
